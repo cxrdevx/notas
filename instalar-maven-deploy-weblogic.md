@@ -23,8 +23,7 @@ Instalar los arquetipos de Oracle
 mvn archetype:crawl -Dcatalog=C:\Users\Carlos Tapia\.m2/repository/archetype-catalog.xml
 ```
 
-finalmente se debe agregar las siguiente lineas al archivo 
-agregar al archivo maven `~/.m2/settings.xml​`
+finalmente se debe agregar las siguiente lineas al archivo  `~/.m2/settings.xml​`
 
 ```xml
 <pluginGroups>
